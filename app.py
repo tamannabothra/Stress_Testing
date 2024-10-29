@@ -133,7 +133,7 @@ def main():
             print("Exiting the program.")
             break
         else:
-            print("Invalid choice!!")
+            print("Invalid choice!")
             continue
 
         # Display the result
