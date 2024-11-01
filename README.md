@@ -5,12 +5,19 @@ Welcome to the Stress Testing Suite, a powerful Python-based tool to stress-test
 
 🌟 Features
 🧠 Memory Stress Test: Allocates memory and monitors usage.
+
 💾 Disk Stress Test: Writes large files to assess disk usage.
+
 🌐 Network Stress Test: Simulates heavy traffic to evaluate network bandwidth.
+
 🖥️ CPU Stress Test: Executes intensive calculations to gauge CPU performance.
+
 🛢️ MySQL Stress Test: Runs predefined SQL queries to measure database load handling.
+
 🤖 AI-Driven Logging: ai_suggestionsfile.py sends stress logs to the ChatGPT API and generates insights, saved in suggestions.txt.
+
 📲 WhatsApp Alerts: send_to_whatsapp.py leverages Twilio to send performance suggestions and alerts directly to WhatsApp for real-time notifications.
+
 📦 Installation
 Clone the Repository:
 ```
